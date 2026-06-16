@@ -23,7 +23,7 @@ Passionate about open-source technologies, networking, containerization, and con
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,docker,ansible,nginx,mysql,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,powershell,docker,ansible,nginx,mysql,terraform)](https://skillicons.dev)
 
 </div>
 
