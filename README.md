@@ -4,8 +4,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-x0sina-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxlover6509)
-[![Telegram](https://img.shields.io/badge/Telegram-@x0sina-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bstaad)
+[![GitHub](https://img.shields.io/badge/GitHub-linuxlover6509-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxlover6509)
+[![Telegram](https://img.shields.io/badge/Telegram-@bstaad-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bstaad)
 
 
 </div>
