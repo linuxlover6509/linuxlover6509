@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+linuxlover6509;SysOps;Building+Digital+Freedom;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+linuxlover;SysOps;Building+Digital+Freedom;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br>
 
@@ -37,7 +37,6 @@ Passionate about open-source technologies, networking, containerization, and con
 📫 **Connect**  
 [Telegram](https://t.me/bstaad) • [GitHub](https://github.com/linuxlover6509)
 
-<img src="https://komarev.com/ghpvc/?username=x0sina&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 <br><br>
 <i>"Building the future, one clean commit at a time."</i> 🚀
