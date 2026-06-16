@@ -19,6 +19,15 @@ Passionate about open-source technologies, networking, containerization, and con
 
 ---
 
+### ⚙️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,vim,ansible,bash,figma&theme=light)](https://skillicons.dev)
+
+</div>
+
+---
 
 ### 🎨 My Philosophy
 
@@ -42,4 +51,3 @@ Passionate about open-source technologies, networking, containerization, and con
 <i>"Building the future, one clean commit at a time."</i> 🚀
 
 </div>
-
